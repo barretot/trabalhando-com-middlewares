@@ -1,3 +1,5 @@
+# ( Projeto desenvolvido no curso Ignite NodeJS da <a href="https://www.rocketseat.com.br/">Rocketseat</a> )
+
 # Desafio: Trabalhando com middlewares Node.js
 
 Este projeto serve como um backend para funcionar como API público para demonstrar a utilização da API do Trabalhando com middlewares Node.js. A ideia da aplicação é que os usuários possam adicionar tarefas a sua conta, possuindo plano pro ou free e dependendo do plano as tarefas serão limitadas a conta do usuário nessas tarefas também é permitido a adição de data, horário e até se foi concluida ou não,
